@@ -1,0 +1,2 @@
+C:\Users\FT 2026\source\repos\C50-GSatTue-Basics04_sol\C50-GSatTue-Basics04\obj\Debug\C50-GSatTue-Basics04.csproj.AssemblyReference.cache
+C:\Users\FT 2026\source\repos\C50-GSatTue-Basics04_sol\C50-GSatTue-Basics04\obj\Debug\C50-GSatTue-Basics04.csproj.CoreCompileInputs.cache
